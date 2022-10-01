@@ -1,5 +1,7 @@
 # 更改日志 | CHANGE LOG
 
+## v0.0.1/2022-10-02
+
 - 初始化 | Initialization.
 - 新增模板 | New templates.
   - `查询今日更新的文档.md` | `query-updated-doc-today.md`

@@ -17,6 +17,8 @@ A miscellaneous set of tool-like templates for Siyuan Notes.
 
 ## 预览 | PREVIEW
 
+![预览-relative](./preview.png)
+
 ## 介绍 | INTRODUCTION
 
 本套模板由三组模板组成  
@@ -34,7 +36,7 @@ This set of templates consists of three types of templates.
   - 该组模板主要实现其他功能  
     This group of templates primarily implements some other functions.
 
-### 模板介绍
+### 各模板介绍
 
 - `Query`
   - `查询今日更新的文档.md` | `query-updated-doc-today.md`
