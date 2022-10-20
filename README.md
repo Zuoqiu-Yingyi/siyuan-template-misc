@@ -46,6 +46,9 @@ This set of templates consists of three types of templates.
   - `查询24小时内更新的文档.md` | `query-updated-doc-24H.md`
     - 以表格的形式汇总 24 小时内更新的文档 (排除挂件所在的文档)  
       Summarize the updated documents within 24 hours in tabular form (excluding the documents where the widget is located).
+  - `查询嵌入块反链.md` | `query-enbedded-blocks-breaklink.md`
+    - 以表格的形式汇总嵌入指定块的嵌入块  
+      Summarizes the embedded block of the embedded specified block in a table.
 - `Embed`
   - `汇总当前文档反链.md` | `sum-backlink-of-doc.md`
     - 以嵌入块的形式汇总当前文档的反链 (所有引用当前文档的块)  

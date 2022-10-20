@@ -1,5 +1,8 @@
 # 更改日志 | CHANGE LOG
 
+- 新增模板 | New templates.
+  - `汇总当前文档反链.md` | `sum-backlink-of-doc.md`
+
 ## v0.0.1/2022-10-02
 
 - 初始化 | Initialization.
