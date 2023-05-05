@@ -65,6 +65,12 @@ This set of templates consists of three types of templates.
       - 当前文档路径 | the path of the current document
       - 当前文档创建时间 | the creation time of the current document
       - 当前表格更新时间 | the update time of the current document
+  - `webview.md`
+    - 使用 `<webview>` 标签显示网页(仅限桌面端)  
+      Display web pages using the `<webview>` tag (desktop only).
+    - 详情请参考 [`<webview>` Tag | Electron](https://www.electronjs.org/zh/docs/latest/api/webview-tag)  
+      For details, please refer to [`<webview>` Tag | Electron](https://www.electronjs.org/docs/latest/api/webview-tag).
+      
 
 ## 更改日志 | CHANGE LOG
 

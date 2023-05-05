@@ -2,6 +2,8 @@
 
 - 新增模板 | New templates.
   - `汇总当前文档反链.md` | `sum-backlink-of-doc.md`
+- 新增模板 | New templates.
+  - `webview.md`
 
 ## v0.0.1/2022-10-02
 
