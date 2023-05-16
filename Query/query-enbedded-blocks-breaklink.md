@@ -1,5 +1,4 @@
 ```sql
--- Query embedded block backlink.
 SELECT
     *
 FROM

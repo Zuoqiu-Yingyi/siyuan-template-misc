@@ -7,6 +7,7 @@
 - 新增模板 | New templates.
   - `查询当前文档反链列表.md` | `query-backlink-list-of-doc.md`
 - 中英文文档分离 | Separate Chinese and English documents.
+- 调整部分用于 Query 挂件块的 SQL 语句 | Adjust some SQL statements used for Query widgets.
 
 ## v0.0.1/2022-10-02
 
