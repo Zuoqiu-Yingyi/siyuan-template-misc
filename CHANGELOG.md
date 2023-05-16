@@ -6,6 +6,7 @@
   - `webview.md`
 - 新增模板 | New templates.
   - `查询当前文档反链列表.md` | `query-backlink-list-of-doc.md`
+- 中英文文档分离 | Separate Chinese and English documents.
 
 ## v0.0.1/2022-10-02
 
