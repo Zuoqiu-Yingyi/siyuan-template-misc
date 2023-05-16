@@ -1,5 +1,8 @@
 # 更改日志 | CHANGE LOG
 
+## v0.0.2/2023-05-16
+
+- [v0.0.1 ... v0.0.2](hhttps://github.com/Zuoqiu-Yingyi/siyuan-template-misc/compare/v0.0.1...v0.0.2)
 - 新增模板 | New templates.
   - `汇总当前文档反链.md` | `sum-backlink-of-doc.md`
 - 新增模板 | New templates.
